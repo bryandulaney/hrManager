@@ -1,0 +1,4 @@
+hrManager.Employee
+hrManager.Employee
+hrManager.Employee
+1,Bryan Dulaney,System.Windows.Forms.DateTimePicker, Value: 11/20/1984 12:00:00 AM,Single,1000000,Education,Instructor,2233 Brooklyn Street
